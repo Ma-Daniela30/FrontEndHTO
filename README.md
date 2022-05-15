@@ -1,6 +1,8 @@
 # Documentación del Proyecto FRONT-END
 _Desarrollo del levantamiento de requerimientos, buyer personal, publico objetivo, wireframe UX y UI_
 
+<img src="https://github.com/Ma-Daniela30/FrontEndHTO/blob/main/logo.png" width="250">
+
 ## Contenido 🚀
 
 * 1.- [Requerimientos](#requerimientos)
