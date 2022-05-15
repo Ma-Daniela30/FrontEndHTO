@@ -1,0 +1,7 @@
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    display: block !important;
+}
+.carousel-item>img{
+    max-height: 700px;
+}
+
