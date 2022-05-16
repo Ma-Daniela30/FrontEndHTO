@@ -62,7 +62,6 @@ Con el proposito de ayudar al usuario como usar la pagina de una manera intuitiv
 _Menciona a todos aquellos que ayudaron a desarrollar el proyecto desde sus inicios_
 
 * **Cajero Luis Felipe** - *Documentación* -[Luis Felipe Cajero](https://github.com/luizcajero)
-* **Espinosa Edson Antonio** - [Eds0n](https://github.com/edsonespinosagomez)
 * **Espinosa Roy Angelica Ariadna** - *Documentación* - [AngelicaAERoy](https://github.com/AngelicaRoy)
 * **Marin Rodriguez Alexis Alberto** - *Documentación* - [alexMarinRodriguez](https://github.com/alexMarinRodriguez)
 * **Espinosa Roy Maria Daniela** - *Lider del proyecto y Documentación* - [Ma-Daniela30](https://github.com/Ma-Daniela30)
